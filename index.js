@@ -499,79 +499,10 @@ vertex3d.prototype = {
 		}
 	};
 	var textSet = [
-		{text:"_", sphereRadius:140, sphereSpace:80, unitTime:100, time:1000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:3000},
-		{text:"COMING_SOON", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
-		{text:"COMING_SOON", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
-		{text:"TEJASH_J_L", sphereRadius:140, sphereSpace:80, unitTime:100, time:4000},
-		{text:"TEJASH_J_L", sphereRadius:100, sphereSpace:60, unitTime:100, time:3000},
+		{text:"COMING_SOON", sphereRadius:100, sphereSpace:50, unitTime:120, time:4000},
+		{text:"COMING_SOON", sphereRadius:80, sphereSpace:40, unitTime:100, time:3000},
+		{text:"TEJASH_JL", sphereRadius:100, sphereSpace:70, unitTime:50, time:2000},
+		{text:"TEJASH_JL", sphereRadius:80, sphereSpace:80, unitTime:60, time:3000},
 	];
 
 	var textSetChangerIncrement = 0;
@@ -617,9 +548,9 @@ vertex3d.prototype = {
 		}, 1000/60);
 		textSetChanger();
 	};
-	document.body.onmousemove = function(e) {
-	camera.rotate.x = e.pageY/window.innerHeight * 180 - 90;
-	camera.rotate.y = e.pageX/window.innerWidth * 180 - 90;
-	document.onmousedown = function() {camera.zoom = Math.random()*1+1};
-	document.onmouseup = function() {camera.zoom = 1};
-};
+	// document.body.onmousemove = function(e) {
+	// camera.rotate.x = e.pageY/window.innerHeight * 180 - 90;
+	// camera.rotate.y = e.pageX/window.innerWidth * 180 - 90;
+	// document.onmousedown = function() {camera.zoom = Math.random()*1+1};
+	// document.onmouseup = function() {camera.zoom = 1};
+// };
